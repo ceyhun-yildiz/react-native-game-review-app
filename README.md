@@ -1,2 +1,2 @@
-# react-native-game-review-app
+# GameZone
 Game review app made with React Native
